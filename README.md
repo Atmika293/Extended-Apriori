@@ -1,6 +1,6 @@
 # Extended-Apriori
 
-A graphical description of the project can be found in **Extended_Apriori.doc**.
+A graphical description of the project can be found in **Extended_Apriori.docx**(https://drive.google.com/file/d/0B3qeTSY-DQRvU1ZqeWhiMlFrRFE/view?usp=sharing).
 
 The following inputs are required for the project to run:
 
